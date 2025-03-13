@@ -12,7 +12,7 @@
 }
 
 .Statistic{
-  width: 250px;
+  width: 260px;
   overflow: hidden;
   border: 1px solid black;
   border-radius: 10px;
@@ -98,7 +98,7 @@ body {
   .scores-container {
     grid-template-columns: repeat(4, 1fr);
 
-    max-width: 1100px;
+    max-width: 1200px;
     margin: auto;
   }
 }
