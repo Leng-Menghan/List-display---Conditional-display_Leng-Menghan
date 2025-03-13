@@ -24,7 +24,7 @@ export default function Scores(props) {
 
         </tbody>
       </table>
-        <><Statistic courseResults={props.courseResults}></Statistic></>
+        <Statistic courseResults={props.courseResults}></Statistic>
     </div>
   );
 }
